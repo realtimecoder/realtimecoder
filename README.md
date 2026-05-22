@@ -43,7 +43,7 @@
 </a>
 
 <a href="https://www.reddit.com/user/Adept-Bus-1809/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/reddit.svg" height="50" />
+<img src="https://skillicons.dev/icons?i=reddit" height="50"/>
 </a>
 
 <a href="mailto:gtannaverma@gmail.com">
