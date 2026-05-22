@@ -46,7 +46,7 @@
 &nbsp;&nbsp;&nbsp;
 
 <a href="https://reddit.com/user/Adept-Bus-1809/">
-<img src="https://skillicons.dev/icons?i=reddit" width="55"/>
+<img src="https://img.icons8.com/color/96/reddit.png" width="55" />
 </a>
 &nbsp;&nbsp;&nbsp;
 
