@@ -41,10 +41,10 @@
 <img src="https://skillicons.dev/icons?i=instagram" width="55"/>
 </a>
 <a href="https://reddit.com/user/Adept-Bus-1809/">
-<img src="https://pixabay.com/images/search/reddit%20logo/" width="55" />
+<img src="https://cdn.pixabay.com/photo/2021/09/11/12/17/reddit-6615447_1280.png" width="55" />
 </a>
 <a href="mailto:gtannaverma@gmail.com">
-<img src="https://icon-icons.com/icon/google-mail-gmail-logo/159346/" width='55' />
+<img src="https://images.icon-icons.com/2642/PNG/512/google_mail_gmail_logo_icon_159346.png" width='55' />
 </a>
 
 </p>
