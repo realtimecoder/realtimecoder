@@ -1,4 +1,3 @@
-`
 <h1 align="center">Hi 👋, I'm Sakshi Verma</h1>
 
 <h3 align="center">
@@ -38,18 +37,14 @@
 <a href="https://www.linkedin.com/in/sakshi-verma-7a4a85285/">
 <img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
 </a>
-
-
 <a href="https://instagram.com/_fairy_viaion_">
 <img src="https://skillicons.dev/icons?i=instagram" width="55"/>
 </a>
-
 <a href="https://reddit.com/user/Adept-Bus-1809/">
-<img src="https://img.icons8.com/color/96/reddit.png" width="55" />
+<img src="https://pixabay.com/images/search/reddit%20logo/" width="55" />
 </a>
-
 <a href="mailto:gtannaverma@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://icon-icons.com/icon/google-mail-gmail-logo/159346/" width='55' />
 </a>
 
 </p>
