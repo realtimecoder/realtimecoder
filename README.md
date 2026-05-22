@@ -1,4 +1,4 @@
-
+`
 <h1 align="center">Hi 👋, I'm Sakshi Verma</h1>
 
 <h3 align="center">
@@ -6,7 +6,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Unity+Game+Developer+%F0%9F%8E%AE;AI+%26+Generative+AI+Explorer+%F0%9F%A4%96;C%23+%7C+Python+%7C+C%2B%2B+Learner+%F0%9F%92%BB;Building+Cool+Things+With+Code+%E2%9C%A8" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Unity+Game+Developer+🎮;AI+%26+Generative+AI+Explorer+🤖;C%23+%7C+Python+%7C+C%2B%2B+Learner+💻;Building+Cool+Things+With+Code+✨" />
 </p>
 
 ---
@@ -35,11 +35,19 @@
 <p align="center">
 
 <a href="https://www.linkedin.com/in/sakshi-verma-7a4a85285/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<img src="https://skillicons.dev/icons?i=linkedin" height="50" />
+</a>
+
+<a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME" target="_blank">
+<img src="https://skillicons.dev/icons?i=instagram" height="50" />
+</a>
+
+<a href="https://reddit.com/user/YOUR_REDDIT_USERNAME" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/reddit.svg" height="50" />
 </a>
 
 <a href="mailto:gtannaverma@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-ff69b4?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
@@ -49,25 +57,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=realtimecoder&show_icons=true&theme=tokyonight" height="180em"/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=realtimecoder&theme=tokyonight" height="180em"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=realtimecoder&show_icons=true&theme=tokyonight&hide_border=true"/>
 
----
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=realtimecoder&theme=tokyonight&hide_border=true"/>
 
-## 💻 Most Used Languages
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=realtimecoder&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=realtimecoder&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/realtimecoder/realtimecoder/output/snake.svg" alt="Snake animation" />
 </p>
 
 ---
