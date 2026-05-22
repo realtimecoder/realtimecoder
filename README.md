@@ -44,7 +44,7 @@
 <img src="https://cdn.pixabay.com/photo/2021/09/11/12/17/reddit-6615447_1280.png" width="55" />
 </a>
 <a href="mailto:gtannaverma@gmail.com">
-<img src="https://images.icon-icons.com/2642/PNG/512/google_mail_gmail_logo_icon_159346.png" width='55' />
+<img src="https://thumbs.dreamstime.com/b/logo-icon-vector-logos-icons-set-social-media-flat-banner-vectors-svg-eps-jpg-jpeg-paper-texture-glossy-emblem-wallpaper-210442689.jpg" width='55' />
 </a>
 
 </p>
