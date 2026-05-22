@@ -32,25 +32,31 @@
 
 ## 🌐 Connect With Me
 
+
 <p align="center">
 
-<a href="https://www.linkedin.com/in/sakshi-verma-7a4a85285/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="50" />
+<a href="https://www.linkedin.com/in/sakshi-verma-7a4a85285/">
+<img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
 </a>
+&nbsp;&nbsp;&nbsp;
 
-<a href="https://instagram.com/_fairy_vision_" target="_blank">
-<img src="https://skillicons.dev/icons?i=instagram" height="50" />
+<a href="https://instagram.com/_fairy_viaion_">
+<img src="https://skillicons.dev/icons?i=instagram" width="55"/>
 </a>
+&nbsp;&nbsp;&nbsp;
 
-<a href="https://www.reddit.com/user/Adept-Bus-1809/" target="_blank">
-<img src="https://skillicons.dev/icons?i=reddit" height="50"/>
+<a href="https://reddit.com/user/Adept-Bus-1809/">
+<img src="https://skillicons.dev/icons?i=reddit" width="55"/>
 </a>
+&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:gtannaverma@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="50"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
+```
+
 
 ---
 
