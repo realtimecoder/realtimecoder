@@ -38,11 +38,12 @@
 <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
 </a>
 
-<a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME" target="_blank">
+<a href="https://instagram.com/_fairy_vision_" target="_blank">
 <img src="https://skillicons.dev/icons?i=instagram" height="50" />
 </a>
 
-<a href="https://reddit.com/user/YOUR_REDDIT_USERNAME" target="_blank">
+<a href="https://reddit.com/user/
+Adept-Bus-1809" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/reddit.svg" height="50" />
 </a>
 
