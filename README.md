@@ -25,7 +25,7 @@
 ## 🚀 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,c,cs,python,unity,git,github,vscode,html,css,js,mysql" />
+<img src="https://skillicons.dev/icons?i=cpp,c,cs,python,unity,git,github,vscode,html,css,js,mysql,tailwind" />
 </p>
 
 ---
@@ -42,7 +42,7 @@
 <img src="https://skillicons.dev/icons?i=instagram" height="50" />
 </a>
 
-<a href="https://www.reddit.com/user/Adept-Bus-1809/">
+<a href="https://www.reddit.com/user/Adept-Bus-1809/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/reddit.svg" height="50" />
 </a>
 
