@@ -42,13 +42,12 @@
 <img src="https://skillicons.dev/icons?i=instagram" height="50" />
 </a>
 
-<a href="https://reddit.com/user/
-Adept-Bus-1809" target="_blank">
+<a href="https://www.reddit.com/user/Adept-Bus-1809/">
 <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/reddit.svg" height="50" />
 </a>
 
 <a href="mailto:gtannaverma@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="50"/>
 </a>
 
 </p>
