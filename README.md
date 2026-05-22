@@ -1,16 +1,86 @@
-## Hi there 👋
+```md
+<h1 align="center">Hi 👋, I'm Sakshi Verma</h1>
 
-<!--
-**realtimecoder/realtimecoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+🚀 BTech CSE Student | Game Developer | AI Enthusiast
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Unity+Game+Developer+%F0%9F%8E%AE;AI+%26+Generative+AI+Explorer+%F0%9F%A4%96;C%23+%7C+Python+%7C+C%2B%2B+Learner+%F0%9F%92%BB;Building+Cool+Things+With+Code+%E2%9C%A8" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌸 About Me
+
+🎓 B.Tech CSE Student at **Delhi Technological University**  
+🎮 Learning **Game Development using Unity & C#**  
+🤖 Interested in **AI, Generative AI & Machine Learning**  
+💻 Love building creative and interactive projects  
+🌱 Currently improving **DSA & Development Skills**  
+✨ Exploring new technologies every day
+
+---
+
+## 🚀 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cpp,c,cs,python,unity,git,github,vscode,html,css,js,mysql" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/sakshi-verma-7a4a85285/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:gtannaverma@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-ff69b4?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=realtimecoder&show_icons=true&theme=tokyonight" height="180em"/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=realtimecoder&theme=tokyonight" height="180em"/>
+</p>
+
+---
+
+## 💻 Most Used Languages
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=realtimecoder&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/realtimecoder/realtimecoder/output/snake.svg" alt="Snake animation" />
+</p>
+
+---
+
+## ✨ Fun Quote
+
+<p align="center">
+<i>"Code. Create. Play. Repeat." 🎮</i>
+</p>
+
+---
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=realtimecoder&label=Profile%20Views&color=ff69b4&style=flat" />
+</p>
+```
